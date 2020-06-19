@@ -1,9 +1,8 @@
 {
-  "name": "lightning-ui",
+  "name": "lightning-ui-components",
   "version": "0.0.0",
   "dependencies": {
-    "wpe-lightning": "git+https://github.com/rdkcentral/Lightning.git#1.7.0",
-    "wpe-lightning-sdk": "git+https://github.com/rdkcentral/Lightning-SDK.git#2.2.2"
+    "wpe-lightning": "^1.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
